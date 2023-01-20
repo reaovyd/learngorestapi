@@ -1,0 +1,6 @@
+{
+    "SERVER_PROPERTIES": {
+        "PORT" : "8080",
+        "DOMAIN" : "localhost"
+    }
+}
