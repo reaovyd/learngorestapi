@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: ~/learngorestapi
     docker:
-      - image: cimg/go:1.15.10
+      - image: cimg/go:1.19.5
     steps:
       - checkout
       - restore_cache:
